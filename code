@@ -7,7 +7,7 @@ using namespace std;
 class SmartCity {
     int n;
     vector<string> name;
-    vector< vector<int> > roads;
+    vector<vector<int> > roads;
 
 public:
     SmartCity(int size) {
@@ -122,3 +122,4 @@ int main() {
 
     return 0;
 }
+ 
